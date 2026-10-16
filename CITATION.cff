@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "OS2-Xe: Ozaki Scheme II DGEMM/ZGEMM emulation on Intel GPUs"
+authors:
+  - family-names: Rostovskis
+    given-names: Rostislavs
+    affiliation: "Institute of Solid State Physics, University of Latvia"
+  - family-names: Platonenko
+    given-names: Aleksandrs
+    affiliation: "Institute of Solid State Physics, University of Latvia"
+license: MIT
+repository-code: "https://github.com/MacraMacra/OS2-Xe"
+version: 1.0.0
+date-released: 2026-10-16
+keywords:
+  - Ozaki scheme
+  - DGEMM
+  - ZGEMM
+  - SYCL
+  - oneMKL
+  - Intel GPU
+  - mixed precision

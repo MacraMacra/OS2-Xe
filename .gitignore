@@ -1,0 +1,7 @@
+build/
+*.o
+*.out
+*.csv
+*.log
+.vscode/
+.idea/
